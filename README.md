@@ -11,7 +11,7 @@ The project is designed to demonstrate fundamental web development concepts.
 2. CSS – Styling and layout <br>
 3. JavaScript – Logic and interactivity <br>
 ## Learning Objectives <br>
-1. Styling with CSS Grid or Flexbox <br>
+1. Styling with CSS Grid <br>
 2. Handling user inputs and string manipulation <br>
 3. Building interactive UI with pure JavaScript<br>
 ## Output
