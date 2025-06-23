@@ -14,3 +14,5 @@ The project is designed to demonstrate fundamental web development concepts.
 1. Styling with CSS Grid or Flexbox <br>
 2. Handling user inputs and string manipulation <br>
 3. Building interactive UI with pure JavaScript<br>
+## Output
+![Screenshot 2025-06-23 222221](https://github.com/user-attachments/assets/da47bcbc-f307-465b-91dd-7186757eb48d)
